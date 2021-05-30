@@ -1,0 +1,32 @@
+
+.conteudo {
+    background-color: whitesmoke;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid gray;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.botaoAdicionar {
+    background-color: lightskyblue;
+}
+
+.botaoRemover {
+    background-color: red;
+}
